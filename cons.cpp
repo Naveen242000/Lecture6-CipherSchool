@@ -25,7 +25,6 @@ int main()
   student s2("10","Mohit",1);
   student s3;
   s3 = s2;
-  s3+s2;
   s3.into();
   return 0;
 }
